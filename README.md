@@ -1,5 +1,5 @@
 <!--- SPDX-License-Identifier: Apache-2.0 -->
-<p align="center"><img width="50%" src="docs/proglearn_logo.png" /></p>
+<p align="center"><img width="42%" src="docs/proglearn_logo.png" /></p>
 
 [![Code style: black](https://img.shields.io/badge/code%20style-black-000000.svg)](https://github.com/psf/black)
 
