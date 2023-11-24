@@ -23,7 +23,7 @@ You can install from [PyPi](https://pypi.org/project/prog2onnx/):
 pip install prog2onnx
 ```
 *Note*: There is a known backtracking issue in `pip`'s dependency resolver that may significantly affect the time required to fetch the correct versions of the dependencies. A quick and easy fix is to add `--use-deprecated legacy-resolver`
-at the end of `pip install` .   
+at the end of `pip install`.   
 ## Getting started
 
 ```python
