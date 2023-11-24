@@ -9,7 +9,7 @@ Once in the ONNX format, you can use tools like [ONNX Runtime](https://github.co
 All converters are tested with [onnxruntime](https://onnxruntime.ai/).
 
 ## Supported Converters
-This version implements  `ProgLearn` estimators that adhere to the [sklearn-onnx](https://onnx.ai/sklearn-onnx/)  API on registering custom converters
+This version implements  `ProgLearn` estimators that adhere to the [sklearn-onnx](https://onnx.ai/sklearn-onnx/)  API on registering custom converters:
 
 | Name| Package | Supported |
 |  :----------------  |  :------:  |  :----:  |
