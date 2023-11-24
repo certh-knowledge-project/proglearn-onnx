@@ -65,7 +65,7 @@ input_name = sess.get_inputs()[0].name
 pred_onx = sess.run(None, {input_name: X_test.astype(np.float32)})[0]
 ```
 ## Testing
-Several scenarios are assessed in the form of separate tests using the Python's built in `unittest` testing framework. 
+Several scenarios are assessed in the form of separate tests using Python's built-in `unittest` testing framework. 
 
 `python -m unittest -v tests/test_proglearn.py`
 
